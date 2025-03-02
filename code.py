@@ -1,4 +1,4 @@
-file_path = '/content/drive/My Drive/titanic.csv'
+file_path = 'Titanic-Dataset.csv'
 
 import pandas as pd
 import numpy as np
