@@ -1,17 +1,12 @@
 # Titanic Survival Prediction
 ## Just Experimenting a bit
-This is a simple machine learning project to predict Titanic survival using the Titanic dataset. The project uses **XGBoost** for classification and includes feature engineering, data preprocessing, and hyperparameter tuning to improve model performance.
+This is a simple machine learning project to predict Titanic survival using the Titanic dataset. The project uses XGBoost for classification and includes feature engineering, data preprocessing, and hyperparameter tuning to improve model performance.
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-
-## Overview
-
-This project explores machine learning techniques to predict passenger survival on the Titanic. The model is trained using various features, including passenger class, age, sex, family size, and others, to predict whether a passenger survived.
 
 ## Dataset
 
